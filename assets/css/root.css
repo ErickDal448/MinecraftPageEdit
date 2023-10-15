@@ -1,0 +1,15 @@
+.text-EndermanEmphasis{
+    color: #f769fa;
+}
+.bg-EndermanEmphasis{
+    background-color: #f769fa;
+    color: white;
+}
+
+.text-greenMine{
+    color: var(--bs-green);
+}
+.bg-greenMine{
+    background-color: var(--bs-green);
+    color: white;
+}

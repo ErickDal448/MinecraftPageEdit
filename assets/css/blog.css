@@ -1,0 +1,60 @@
+main{
+  margin-top: 5rem;
+}
+h1, h2, h3, h4, h5, h6{
+  color: var(--bs-green);
+}
+
+.postImg{
+  background-size:contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width:100%; height:10rem;
+}
+.postImg1{
+  background-image: url("https://www.minecraft.net/content/dam/games/minecraft/game-updates/Reheat_Carousel_440x250.jpg" );
+}
+.postImg2{
+  background-image: url("https://www.minecraft.net/content/dam/games/minecraft/screenshots/cow-car.jpg" );
+}
+.postImg3{
+  background-image: url("https://www.minecraft.net/content/dam/games/badger/screenshots/LetsBreakMCLegendscarousel.jpg" );
+}
+.postImg4{
+  background-image: url("https://www.minecraft.net/content/dam/games/minecraft/marketplace/MCMKT_RealmsPlus_Sept2023_NET_440x250.jpg" );
+}
+
+/* stylelint-disable stylistic/selector-list-comma-newline-after */
+
+.blog-header-logo {
+  font-size: 2.25rem;
+}
+
+.blog-header-logo:hover {
+  text-decoration: none;
+}
+
+.flex-auto {
+  flex: 0 0 auto;
+}
+
+.h-250 { height: 250px; }
+@media (min-width: 768px) {
+  .h-md-250 { height: 250px; }
+}
+
+/* Pagination */
+.blog-pagination {
+  margin-bottom: 4rem;
+}
+
+/*
+ * Blog posts
+ */
+.blog-post {
+  margin-bottom: 4rem;
+}
+.blog-post-meta {
+  margin-bottom: 1.25rem;
+  color: #727272;
+}

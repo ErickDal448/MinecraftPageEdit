@@ -1,0 +1,41 @@
+.minecraftBack {
+    background-image: url("https://www.minecraft.net/content/dam/games/minecraft/key-art/MCV-PMP_Trails-and-Tales_Update-Carousel_1080x600.jpg");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.DungeonsBack {
+    background-image: url("https://www.minecraft.net/content/dam/games/dungeons/key-art/MinecraftDungeons_Hero_2200x1238.jpg");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.legendsBack {
+    background-image: url("https://www.minecraft.net/content/dam/games/badger/screenshots/Minecraft_Legends_PreOrder_Trailer_Thumbnail_1280x720.png");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.CrabBack{
+    background-image: url("https://www.minecraft.net/content/dam/community/events/cy2023/minecraft-live-2023/MobVote2023_Option1.png");
+    background-size:auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.ArmadilloBack{
+    background-image: url("https://www.minecraft.net/content/dam/community/events/cy2023/minecraft-live-2023/MobVote2023_Option2.png");
+    background-size:auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.PenguinBack{
+    background-image: url("https://www.minecraft.net/content/dam/community/events/cy2023/minecraft-live-2023/MobVote2023_Option3.png");
+    background-size:auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.videoMob{
+    margin: auto;
+    margin-top: 2rem;
+}
